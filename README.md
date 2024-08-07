@@ -23,14 +23,14 @@ Results
 
 Amazon Egypt
 The extracted data includes:
-Product Image
-Product Name
-Number of Ratings
-Rating
+Product Image, 
+Product Name, 
+Number of Ratings, 
+Rating, 
 Price
 
 Box Office Mojo
 The extracted data includes:
-Movie Title
-Release Date
+Movie Title,
+Release Date,
 Gross Revenue
